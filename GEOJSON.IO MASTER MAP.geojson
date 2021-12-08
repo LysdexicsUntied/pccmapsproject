@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J8",
         "Block Letter": "A"
@@ -65,10 +65,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J8",
         "Block Letter": "B"
@@ -114,10 +114,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J8",
         "Block Letter": "C"
@@ -187,10 +187,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J8",
         "Block Letter": "D"
@@ -1188,7 +1188,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#b7e493",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#b7e493",
         "fill-opacity": 0.3,
@@ -1235,7 +1235,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#b7e493",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#b7e493",
         "fill-opacity": 0.3,
@@ -1301,10 +1301,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J2",
         "Block Letter": "D"
@@ -1356,10 +1356,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J2",
         "Block Letter": "C"
@@ -1411,10 +1411,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J2",
         "Block Letter": "A"
@@ -1486,10 +1486,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b428b4",
+        "stroke": "#b7e493",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#b428b4",
+        "stroke-opacity": 0.6,
+        "fill": "#b7e493",
         "fill-opacity": 0.3,
         "Map Number": "J2",
         "Block Letter": "B"
@@ -1534,7 +1534,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#b7e493",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#b7e493",
         "fill-opacity": 0.3,
@@ -1585,7 +1585,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#b7e493",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#b7e493",
         "fill-opacity": 0.3,
@@ -1648,7 +1648,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1695,7 +1695,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1746,7 +1746,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1785,7 +1785,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1836,7 +1836,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1875,7 +1875,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1918,7 +1918,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1957,7 +1957,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -1996,7 +1996,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2039,7 +2039,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2086,7 +2086,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2125,7 +2125,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2164,7 +2164,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2227,7 +2227,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2278,7 +2278,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2325,7 +2325,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2376,7 +2376,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2415,7 +2415,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2454,7 +2454,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2509,7 +2509,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2560,7 +2560,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2611,7 +2611,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2658,7 +2658,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2705,7 +2705,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2744,7 +2744,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2799,7 +2799,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2850,7 +2850,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2921,7 +2921,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -2968,7 +2968,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.3,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3011,7 +3011,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3070,7 +3070,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3125,7 +3125,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3164,7 +3164,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3215,7 +3215,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3270,7 +3270,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3333,7 +3333,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3,
@@ -3388,7 +3388,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3
@@ -3433,7 +3433,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3
@@ -3470,7 +3470,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3
@@ -3515,7 +3515,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3
@@ -3552,7 +3552,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ffe854",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 0.6,
         "fill": "#ffe854",
         "fill-opacity": 0.3

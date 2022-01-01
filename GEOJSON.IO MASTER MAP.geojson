@@ -7927,11 +7927,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G1",
         "Block Letter": "A"
       },
@@ -7998,11 +7998,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G1",
         "Block Letter": "B"
       },
@@ -8065,11 +8065,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G2",
         "Block Letter": "A"
       },
@@ -8112,11 +8112,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G2",
         "Block Letter": "B"
       },
@@ -8151,11 +8151,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G2",
         "Block Letter": "C"
       },
@@ -8190,11 +8190,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G3",
         "Block Letter": "A"
       },
@@ -8229,11 +8229,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G3",
         "Block Letter": "B"
       },
@@ -8300,11 +8300,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G3",
         "Block Letter": "C"
       },
@@ -8371,11 +8371,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G4",
         "Block Letter": "A"
       },
@@ -8410,11 +8410,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G4",
         "Block Letter": "B"
       },
@@ -8449,11 +8449,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G4",
         "Block Letter": "C"
       },
@@ -8488,11 +8488,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G4",
         "Block Letter": "D"
       },
@@ -8527,11 +8527,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G5",
         "Block Letter": "A"
       },
@@ -8598,11 +8598,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G5",
         "Block Letter": "B"
       },
@@ -8657,11 +8657,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G5",
         "Block Letter": "C"
       },
@@ -8696,11 +8696,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#98d8fe",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#98d8fe",
+        "fill-opacity": 0.3,
         "Map Number": "G5",
         "Block Letter": "D"
       },

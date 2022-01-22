@@ -18184,7 +18184,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Map Number": "NP16",
+        "Block Letter": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -18221,7 +18223,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Map Number": "NP16",
+        "Block Letter": "G"
       },
       "geometry": {
         "type": "Polygon",
@@ -18258,7 +18262,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Map Number": "NP16",
+        "Block Letter": "H"
       },
       "geometry": {
         "type": "Polygon",

@@ -12935,8 +12935,8 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "A"
+        "Map Number": "MH12",
+        "Block Letter": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -12994,8 +12994,8 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "B"
+        "Map Number": "MH12",
+        "Block Letter": "G"
       },
       "geometry": {
         "type": "Polygon",
@@ -13037,8 +13037,8 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "C"
+        "Map Number": "MH12",
+        "Block Letter": "H"
       },
       "geometry": {
         "type": "Polygon",
@@ -13080,8 +13080,8 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "D"
+        "Map Number": "MH12",
+        "Block Letter": "I"
       },
       "geometry": {
         "type": "Polygon",
@@ -13151,8 +13151,8 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "E"
+        "Map Number": "MH12",
+        "Block Letter": "J"
       },
       "geometry": {
         "type": "Polygon",
@@ -13203,218 +13203,6 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH13",
-        "Block Letter": "F"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              115.84132432937622,
-              -31.926264215953324
-            ],
-            [
-              115.84364175796507,
-              -31.926259663014108
-            ],
-            [
-              115.84365248680115,
-              -31.925740626465966
-            ],
-            [
-              115.84363102912903,
-              -31.925221586988194
-            ],
-            [
-              115.84154963493346,
-              -31.92520792801501
-            ],
-            [
-              115.84144234657288,
-              -31.925239798949296
-            ],
-            [
-              115.84136724472046,
-              -31.925321752729584
-            ],
-            [
-              115.84132969379425,
-              -31.92544923624264
-            ],
-            [
-              115.84132432937622,
-              -31.926264215953324
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#adc0f0",
-        "stroke-width": 2,
-        "stroke-opacity": 0.6,
-        "fill": "#adc0f0",
-        "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "G"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              115.84372758865355,
-              -31.925740626465966
-            ],
-            [
-              115.84371149539948,
-              -31.926259663014118
-            ],
-            [
-              115.84617912769316,
-              -31.926259663014108
-            ],
-            [
-              115.84616839885712,
-              -31.925699649771612
-            ],
-            [
-              115.84613621234892,
-              -31.925517530909072
-            ],
-            [
-              115.84613084793091,
-              -31.925253457917748
-            ],
-            [
-              115.8460611104965,
-              -31.925235245959367
-            ],
-            [
-              115.84580361843109,
-              -31.925239798949296
-            ],
-            [
-              115.8457499742508,
-              -31.925212481006298
-            ],
-            [
-              115.84509015083312,
-              -31.92520792801501
-            ],
-            [
-              115.84371149539948,
-              -31.925221586988194
-            ],
-            [
-              115.84372758865355,
-              -31.925740626465966
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#adc0f0",
-        "stroke-width": 2,
-        "stroke-opacity": 0.6,
-        "fill": "#adc0f0",
-        "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "H"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              115.84130287170409,
-              -31.927325044644945
-            ],
-            [
-              115.84187150001524,
-              -31.92732049175824
-            ],
-            [
-              115.84184467792511,
-              -31.92681967284613
-            ],
-            [
-              115.84365248680115,
-              -31.92679235537247
-            ],
-            [
-              115.84364175796507,
-              -31.9263234041426
-            ],
-            [
-              115.84132432937622,
-              -31.9263234041426
-            ],
-            [
-              115.84130287170409,
-              -31.927325044644945
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#adc0f0",
-        "stroke-width": 2,
-        "stroke-opacity": 0.6,
-        "fill": "#adc0f0",
-        "fill-opacity": 0.3,
-        "Map Number": "MH13",
-        "Block Letter": "I"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              115.84372222423552,
-              -31.927347809075012
-            ],
-            [
-              115.84616839885712,
-              -31.927347809075012
-            ],
-            [
-              115.84618449211119,
-              -31.92631885120631
-            ],
-            [
-              115.845610499382,
-              -31.926309745333075
-            ],
-            [
-              115.84371149539948,
-              -31.92631885120632
-            ],
-            [
-              115.84372222423552,
-              -31.927347809075012
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#adc0f0",
-        "stroke-width": 2,
-        "stroke-opacity": 0.6,
-        "fill": "#adc0f0",
-        "fill-opacity": 0.3,
-        "Map Number": "MH14",
         "Block Letter": "A"
       },
       "geometry": {
@@ -13489,7 +13277,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "B"
       },
       "geometry": {
@@ -13552,7 +13340,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "C"
       },
       "geometry": {
@@ -13603,7 +13391,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "D"
       },
       "geometry": {
@@ -13658,7 +13446,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "E"
       },
       "geometry": {
@@ -13713,7 +13501,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "F"
       },
       "geometry": {
@@ -13752,7 +13540,7 @@
         "stroke-opacity": 0.6,
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
-        "Map Number": "MH14",
+        "Map Number": "MH13",
         "Block Letter": "G"
       },
       "geometry": {

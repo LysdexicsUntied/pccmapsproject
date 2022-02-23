@@ -21646,11 +21646,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "A"
       },
@@ -21693,11 +21693,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "B"
       },
@@ -21744,11 +21744,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "C"
       },
@@ -21787,11 +21787,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "D"
       },
@@ -21842,11 +21842,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "E"
       },
@@ -21897,11 +21897,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML1",
         "Block Letter": "F"
       },
@@ -21944,11 +21944,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "A"
       },
@@ -22011,11 +22011,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "B"
       },
@@ -22066,11 +22066,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "C"
       },
@@ -22129,11 +22129,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "D"
       },
@@ -22180,11 +22180,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "E"
       },
@@ -22239,11 +22239,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML2",
         "Block Letter": "F"
       },
@@ -22326,11 +22326,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "A"
       },
@@ -22365,11 +22365,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "B"
       },
@@ -22404,11 +22404,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "C"
       },
@@ -22443,11 +22443,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "D"
       },
@@ -22482,11 +22482,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "E"
       },
@@ -22525,11 +22525,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "F"
       },
@@ -22568,11 +22568,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "G"
       },
@@ -22611,11 +22611,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML3",
         "Block Letter": "H"
       },
@@ -22666,11 +22666,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML4",
         "Block Letter": "A"
       },
@@ -22721,11 +22721,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML4",
         "Block Letter": "B"
       },
@@ -22768,11 +22768,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML4",
         "Block Letter": "C"
       },
@@ -22819,11 +22819,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#faa9a3",
         "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "stroke-opacity": 0.6,
+        "fill": "#faa9a3",
+        "fill-opacity": 0.3,
         "Map Number": "ML4",
         "Block Letter": "D"
       },

@@ -27811,7 +27811,9 @@
         "stroke-width": 2,
         "stroke-opacity": 0.6,
         "fill": "#ffd16f",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "Map Number": "P6",
+        "Block Letter": "A"
       },
       "geometry": {
         "type": "Polygon",
@@ -27880,7 +27882,9 @@
         "stroke-width": 2,
         "stroke-opacity": 0.6,
         "fill": "#ffd16f",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "Map Number": "P6",
+        "Block Letter": "B"
       },
       "geometry": {
         "type": "Polygon",
@@ -27945,7 +27949,9 @@
         "stroke-width": 2,
         "stroke-opacity": 0.6,
         "fill": "#ffd16f",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "Map Number": "P6",
+        "Block Letter": "C"
       },
       "geometry": {
         "type": "Polygon",

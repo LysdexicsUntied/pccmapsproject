@@ -1065,7 +1065,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1132,7 +1139,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1203,7 +1217,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1258,7 +1279,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1321,7 +1349,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1360,7 +1395,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1463,7 +1505,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Map Number": "OP7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

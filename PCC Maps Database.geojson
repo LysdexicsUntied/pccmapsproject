@@ -1408,7 +1408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#6a6b61",
+        "stroke": "#dbe674",
         "stroke-width": 2.5,
         "stroke-opacity": 0.75,
         "fill": "#dbe674",

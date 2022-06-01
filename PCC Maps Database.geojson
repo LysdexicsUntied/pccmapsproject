@@ -5,10 +5,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH1"
         },
         "geometry": {
@@ -59,10 +59,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH2"
         },
         "geometry": {
@@ -109,10 +109,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH3"
         },
         "geometry": {
@@ -155,10 +155,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH4"
         },
         "geometry": {
@@ -221,10 +221,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH5"
         },
         "geometry": {
@@ -259,10 +259,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH6"
         },
         "geometry": {
@@ -313,10 +313,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH7"
         },
         "geometry": {
@@ -351,10 +351,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH8"
         },
         "geometry": {
@@ -401,10 +401,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH9"
         },
         "geometry": {
@@ -467,10 +467,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#b7e493",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#b7e493",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "TH10"
         },
         "geometry": {
@@ -533,10 +533,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J1"
         },
         "geometry": {
@@ -575,10 +575,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J2"
         },
         "geometry": {
@@ -621,10 +621,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J3"
         },
         "geometry": {
@@ -659,10 +659,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J4"
         },
         "geometry": {
@@ -717,10 +717,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J5"
         },
         "geometry": {
@@ -763,10 +763,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J6"
         },
         "geometry": {
@@ -813,10 +813,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J7"
         },
         "geometry": {
@@ -855,10 +855,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J8"
         },
         "geometry": {
@@ -909,10 +909,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J9"
         },
         "geometry": {
@@ -947,10 +947,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J10"
         },
         "geometry": {
@@ -997,10 +997,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#a8dec9",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#a8dec9",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "J11"
         },
         "geometry": {
@@ -1067,10 +1067,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP1"
         },
         "geometry": {
@@ -1141,10 +1141,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP2"
         },
         "geometry": {
@@ -1219,10 +1219,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP3"
         },
         "geometry": {
@@ -1281,10 +1281,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP4"
         },
         "geometry": {
@@ -1351,10 +1351,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP5"
         },
         "geometry": {
@@ -1397,10 +1397,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP6"
         },
         "geometry": {
@@ -1507,10 +1507,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dbe674",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dbe674",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "OP7"
         },
         "geometry": {
@@ -1573,10 +1573,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#98d8fe",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#98d8fe",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "G1"
         },
         "geometry": {
@@ -1611,10 +1611,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#98d8fe",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#98d8fe",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "G2"
         },
         "geometry": {
@@ -1649,10 +1649,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#98d8fe",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#98d8fe",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "G3"
         },
         "geometry": {
@@ -1691,10 +1691,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#98d8fe",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#98d8fe",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "G4"
         },
         "geometry": {
@@ -1781,10 +1781,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#98d8fe",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#98d8fe",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "G5"
         },
         "geometry": {
@@ -1843,10 +1843,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH1"
         },
         "geometry": {
@@ -1929,10 +1929,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH2"
         },
         "geometry": {
@@ -1983,10 +1983,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH3"
         },
         "geometry": {
@@ -2041,10 +2041,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH4"
         },
         "geometry": {
@@ -2083,10 +2083,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH5"
         },
         "geometry": {
@@ -2133,10 +2133,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH6"
         },
         "geometry": {
@@ -2187,10 +2187,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH7"
         },
         "geometry": {
@@ -2261,10 +2261,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH8"
         },
         "geometry": {
@@ -2335,10 +2335,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH9"
         },
         "geometry": {
@@ -2417,10 +2417,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH10"
         },
         "geometry": {
@@ -2471,10 +2471,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH11"
         },
         "geometry": {
@@ -2545,10 +2545,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH12"
         },
         "geometry": {
@@ -2619,10 +2619,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH13"
         },
         "geometry": {
@@ -2685,10 +2685,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#adc0f0",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#adc0f0",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "MH14"
         },
         "geometry": {
@@ -2743,10 +2743,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP1"
         },
         "geometry": {
@@ -2805,10 +2805,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP2"
         },
         "geometry": {
@@ -2895,10 +2895,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP3"
         },
         "geometry": {
@@ -2949,10 +2949,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP4"
         },
         "geometry": {
@@ -3007,10 +3007,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP5"
         },
         "geometry": {
@@ -3073,10 +3073,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP6"
         },
         "geometry": {
@@ -3135,10 +3135,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP7"
         },
         "geometry": {
@@ -3205,10 +3205,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP8"
         },
         "geometry": {
@@ -3283,10 +3283,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP9"
         },
         "geometry": {
@@ -3341,10 +3341,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP10"
         },
         "geometry": {
@@ -3419,10 +3419,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP11"
         },
         "geometry": {
@@ -3509,10 +3509,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP12"
         },
         "geometry": {
@@ -3555,10 +3555,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP13"
         },
         "geometry": {
@@ -3597,10 +3597,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP14"
         },
         "geometry": {
@@ -3655,10 +3655,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP15"
         },
         "geometry": {
@@ -3729,10 +3729,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP16"
         },
         "geometry": {
@@ -3807,10 +3807,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP17"
         },
         "geometry": {
@@ -3901,10 +3901,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#c1a8e2",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#c1a8e2",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "NP18"
         },
         "geometry": {
@@ -3999,10 +3999,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L1"
         },
         "geometry": {
@@ -4081,10 +4081,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L2"
         },
         "geometry": {
@@ -4127,10 +4127,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L3"
         },
         "geometry": {
@@ -4165,10 +4165,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L4"
         },
         "geometry": {
@@ -4223,10 +4223,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L5"
         },
         "geometry": {
@@ -4265,10 +4265,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L6"
         },
         "geometry": {
@@ -4339,10 +4339,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#dca0cf",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#dca0cf",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "L7"
         },
         "geometry": {
@@ -4433,10 +4433,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#faa9a3",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#faa9a3",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "ML1"
         },
         "geometry": {
@@ -4503,10 +4503,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#faa9a3",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#faa9a3",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "ML2"
         },
         "geometry": {
@@ -4593,10 +4593,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#faa9a3",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#faa9a3",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "ML3"
         },
         "geometry": {
@@ -4651,10 +4651,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#faa9a3",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#faa9a3",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "ML4"
         },
         "geometry": {
@@ -4729,10 +4729,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#f698bc",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#f698bc",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "WP1"
         },
         "geometry": {
@@ -4803,10 +4803,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#f698bc",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#f698bc",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "WP2"
         },
         "geometry": {
@@ -4901,10 +4901,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P1"
         },
         "geometry": {
@@ -4983,10 +4983,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P2"
         },
         "geometry": {
@@ -5041,10 +5041,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P3"
         },
         "geometry": {
@@ -5115,10 +5115,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P4"
         },
         "geometry": {
@@ -5177,10 +5177,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P5"
         },
         "geometry": {
@@ -5227,10 +5227,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffd16f",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffd16f",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "P6"
         },
         "geometry": {
@@ -5273,10 +5273,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#ffe854",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#ffe854",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "H1"
         },
         "geometry": {
@@ -5331,10 +5331,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#feba89",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#feba89",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "N1"
         },
         "geometry": {
@@ -5417,10 +5417,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#feba89",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#feba89",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "N2"
         },
         "geometry": {
@@ -5495,10 +5495,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#555554",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#555554",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "CP1"
         },
         "geometry": {
@@ -5581,10 +5581,10 @@
         "type": "Feature",
         "properties": {
           "stroke": "#555554",
-          "stroke-width": 4,
-          "stroke-opacity": 0.8,
+          "stroke-width": 2.5,
+          "stroke-opacity": 0.75,
           "fill": "#555554",
-          "fill-opacity": 0.5,
+          "fill-opacity": 0.4,
           "Map Number": "CP2"
         },
         "geometry": {

@@ -13790,7 +13790,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "A"
+        "Block Letter": "E"
       },
       "geometry": {
         "type": "Polygon",
@@ -13849,7 +13849,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "B"
+        "Block Letter": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -13904,7 +13904,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "C"
+        "Block Letter": "A"
       },
       "geometry": {
         "type": "Polygon",
@@ -13943,7 +13943,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "D"
+        "Block Letter": "C"
       },
       "geometry": {
         "type": "Polygon",
@@ -13982,7 +13982,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "E"
+        "Block Letter": "B"
       },
       "geometry": {
         "type": "Polygon",
@@ -14021,7 +14021,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP4",
-        "Block Letter": "F"
+        "Block Letter": "D"
       },
       "geometry": {
         "type": "Polygon",
@@ -14582,7 +14582,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP6",
-        "Block Letter": "B"
+        "Block Letter": "C"
       },
       "geometry": {
         "type": "Polygon",
@@ -14633,7 +14633,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP6",
-        "Block Letter": "C"
+        "Block Letter": "E"
       },
       "geometry": {
         "type": "Polygon",
@@ -14676,7 +14676,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP6",
-        "Block Letter": "D"
+        "Block Letter": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -14766,7 +14766,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP6",
-        "Block Letter": "F"
+        "Block Letter": "B"
       },
       "geometry": {
         "type": "Polygon",
@@ -14805,7 +14805,7 @@
         "fill": "#c1a8e2",
         "fill-opacity": 0.3,
         "Map Number": "NP6",
-        "Block Letter": "G"
+        "Block Letter": "C"
       },
       "geometry": {
         "type": "Polygon",

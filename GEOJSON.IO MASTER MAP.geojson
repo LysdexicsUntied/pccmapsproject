@@ -11346,7 +11346,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH11",
-        "Block Letter": "B"
+        "Block Letter": "D"
       },
       "geometry": {
         "type": "Polygon",
@@ -11421,7 +11421,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH11",
-        "Block Letter": "C"
+        "Block Letter": "B"
       },
       "geometry": {
         "type": "Polygon",
@@ -11464,7 +11464,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH11",
-        "Block Letter": "D"
+        "Block Letter": "C"
       },
       "geometry": {
         "type": "Polygon",
@@ -11838,7 +11838,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH12",
-        "Block Letter": "D"
+        "Block Letter": "E"
       },
       "geometry": {
         "type": "Polygon",
@@ -11881,7 +11881,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH12",
-        "Block Letter": "E"
+        "Block Letter": "F"
       },
       "geometry": {
         "type": "Polygon",
@@ -11952,7 +11952,7 @@
         "fill": "#adc0f0",
         "fill-opacity": 0.3,
         "Map Number": "MH12",
-        "Block Letter": "F"
+        "Block Letter": "D"
       },
       "geometry": {
         "type": "Polygon",
